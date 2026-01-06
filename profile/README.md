@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/91yNeV6.png" alt="always.win logo" height="300"/>
+  <img src="https://i.imgur.com/bsRCRJr.png" alt="always.win logo" height="300"/>
 
   ## moon.phase
   *"soon..."*
