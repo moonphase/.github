@@ -8,7 +8,7 @@
   
   ### Connect with us
   
-  <a href="moonphase" target="_blank">
+  <a href="" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/ffffff" width="48" height="48" alt="Discord logo" />
   </a>
   
